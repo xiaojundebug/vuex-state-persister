@@ -1,0 +1,12 @@
+{
+  "name": "vuex-state-persister",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xiaojun1994/vuex-state-persister.git",
+  "author": "xiaojun1994 <362896731@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^2.5.17",
+    "vuex": "^3.0.1"
+  }
+}
